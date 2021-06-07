@@ -22,11 +22,11 @@ Hi guys, my name is Theo!
 I am a Brazilian and I live in the bustling city of São Paulo, I am passionate about programming and technology in general.
 Whenever possible I'm thinking and looking for new project ideas and always willing to discuss related to the area!
 
-I won't deny that I have a certain preference for projects that involve
-- information security;
-- artificial intelligence;
-- discord bots;
-- and automations in general. 
+I won't deny that I have a certain preference for projects that involve>
+- Information Security;
+- Artificial Intelligence;
+- Discord bots;
+- and other automations in general. 
 
 Anyway I'm on the "backend" side of the force.
 
