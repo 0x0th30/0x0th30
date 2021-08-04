@@ -1,7 +1,8 @@
  <div>
   <a href="https://github.com/py8boy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=py8boy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=py8boy&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=py8boy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=py8boy&layout=compact&langs_count=16&theme=merko"/>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://visualpharm.com/assets/266/Linux-595b40b75ba036ed117d8588.svg">
@@ -11,7 +12,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="C" height="33" width="33" src="https://visualpharm.com/assets/698/C%20Programming-595b40b65ba036ed117d3edc.svg">
 </div>
-
+ 
 ## Hi guys 👋
 
 Hi guys, my name is Theo! 
