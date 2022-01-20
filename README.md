@@ -31,7 +31,7 @@ Anyway I'm on the "backend" side of the force.
     <img src="https://img.shields.io/badge/-Typescript-yellow?color=2c3e50&logo=typescript&style=flat-square%22&logoColor=007ACC" alt="Typescript"/>
   </li>
   <li> ⚙️ 
-    <img src="https://img.shields.io/badge/-Git-yellow?color=2c3e50&logo=git&style=flat-square%22" alt="Git"/>
+    <img src="https://img.shields.io/badge/-Git-yellow?color=2c3e50&logo=git&s6c94bdtyle=flat-square%22" alt="Git"/>
     <img src="https://img.shields.io/badge/-Docker-yellow?color=2c3e50&logo=docker&style=flat-square%22" alt="Docker"/>
     <img src="https://img.shields.io/badge/-Linux-yellow?color=2c3e50&logo=linux&style=flat-square%22" alt="Linux"/>
   </li>
@@ -47,5 +47,3 @@ Anyway I'm on the "backend" side of the force.
 
   <a href = "mailto: theodorotheodore@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/th%C3%A9o-silva-b28974212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-![image](https://user-images.githubusercontent.com/61753537/121037656-00544580-c786-11eb-8913-c6cc7c3da22e.png)
