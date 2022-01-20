@@ -25,20 +25,20 @@ Anyway I'm on the "backend" side of the force.
 ## Skills
 <ul>
   <li> 🌐 
-    <img src="https://img.shields.io/badge/-Python-yellow?color=2c3e50&logo=python&style=flat-square%22" alt="Python"/>
-    <img src="https://img.shields.io/badge/-Javascript-yellow?color=2c3e50&logo=javascript&style=flat-square%22" alt="Javascript"/>
-    <img src="https://img.shields.io/badge/-Node.js-yellow?color=2c3e50&logo=node.js&style=flat-square%22" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/-Typescript-yellow?color=2c3e50&logo=typescript&style=flat-square%22&logoColor=007ACC" alt="Typescript"/>
+    <img src="https://img.shields.io/badge/-Python-yellow?color=2c3e50&logo=python&style=flat-square" alt="Python"/>
+    <img src="https://img.shields.io/badge/-Javascript-yellow?color=2c3e50&logo=javascript&style=flat-square" alt="Javascript"/>
+    <img src="https://img.shields.io/badge/-Node.js-yellow?color=2c3e50&logo=node.js&style=flat-square" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/-Typescript-yellow?color=2c3e50&logo=typescript&style=flat-square&logoColor=007ACC" alt="Typescript"/>
   </li>
   <li> ⚙️ 
-    <img src="https://img.shields.io/badge/-Git-yellow?color=2c3e50&logo=git&s6c94bdtyle=flat-square%22" alt="Git"/>
-    <img src="https://img.shields.io/badge/-Docker-yellow?color=2c3e50&logo=docker&style=flat-square%22" alt="Docker"/>
-    <img src="https://img.shields.io/badge/-Linux-yellow?color=2c3e50&logo=linux&style=flat-square%22" alt="Linux"/>
+    <img src="https://img.shields.io/badge/-Git-yellow?color=2c3e50&logo=git&s6c94bdtyle=flat-square" alt="Git"/>
+    <img src="https://img.shields.io/badge/-Docker-yellow?color=2c3e50&logo=docker&style=flat-square" alt="Docker"/>
+    <img src="https://img.shields.io/badge/-Linux-yellow?color=2c3e50&logo=linux&style=flat-square" alt="Linux"/>
   </li>
   </li>
   <li> 🛢 
-    <img src="https://img.shields.io/badge/-MySQL-yellow?color=2c3e50&logo=mysql&style=flat-square%22" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/-Postgres-yellow?color=2c3e50&logo=postgresql&style=flat-square%22" alt="Postgres"/>
+    <img src="https://img.shields.io/badge/-MySQL-yellow?color=2c3e50&logo=mysql&style=flat-square" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/-Postgres-yellow?color=2c3e50&logo=postgresql&style=flat-square" alt="Postgres"/>
   </li>
 </ul>
  
