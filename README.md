@@ -31,7 +31,7 @@ Anyway I'm on the "backend" side of the force.
     <img src="https://img.shields.io/badge/-Typescript-yellow?color=2c3e50&logo=typescript&style=flat-square&logoColor=007ACC" alt="Typescript"/>
   </li>
   <li> ⚙️ 
-    <img src="https://img.shields.io/badge/-Git-yellow?color=2c3e50&logo=git&s6c94bdtyle=flat-square" alt="Git"/>
+    <img src="https://img.shields.io/badge/-Git-yellow?color=2c3e50&logo=git&s6c94bd&style=flat-square" alt="Git"/>
     <img src="https://img.shields.io/badge/-Docker-yellow?color=2c3e50&logo=docker&style=flat-square" alt="Docker"/>
     <img src="https://img.shields.io/badge/-Linux-yellow?color=2c3e50&logo=linux&style=flat-square" alt="Linux"/>
   </li>
