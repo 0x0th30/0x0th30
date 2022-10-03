@@ -1,5 +1,5 @@
 <div>
-  <a href="https://github.com/py8boy">
+  <a href="https://github.com/0x0th30">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x0th30&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0th30&layout=compact&langs_count=16&theme=merko"/>
 
@@ -9,7 +9,7 @@
 
 Hi guys, my name is Theo! 
 
-I am a Brazilian and I live in the bustling city of São Paulo, I am passionate about programming and technology in general.
+I am a brazilian dev and I live in the bustling city of São Paulo, I am passionate about programming and technology in general.
 Whenever possible I'm thinking and looking for new project ideas and always willing to discuss related to the area!
 
 I won't deny that I have a certain preference for projects that involve:
@@ -46,4 +46,4 @@ Anyway I'm on the "backend" side of the force.
 ## Contact me 📲
 
   <a href = "mailto: theodorotheodore@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/th%C3%A9o-silva-b28974212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/theodoro-silva-b28974212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
