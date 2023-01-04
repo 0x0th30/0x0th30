@@ -14,7 +14,7 @@ Whenever possible I'm thinking and looking for new project ideas and always will
 
 I won't deny that I have a certain preference for projects that involve:
 - Information Security;
-- API's;
+- APIs;
 - CLI tools. 
 
 Anyway I'm on the "backend" side of the force.
