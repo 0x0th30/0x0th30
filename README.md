@@ -2,8 +2,6 @@
 
 Brazilian Dev who loves to code and design applications.
 
-I had started to work as Backend Developer when I'm 16, since this point I had focused my efforts to study how to design secure and scalable applications and how to improve my code quality. Navigating through themes like CI/CD pipelines, Owasp TOP 10, microservices architecture, and thousands of others I consider myself an eternal learner.
-
 ```typescript
 class Theo extends Person {
   public nick = '0x0th30';
@@ -15,6 +13,8 @@ class Theo extends Person {
   public codingSince = new Date('2018');
 }
 ```
+
+I had started to work as Backend Developer when I'm 16, since this point I had focused my efforts to study how to design secure and scalable applications and how to improve my code quality. Navigating through themes like CI/CD pipelines, Owasp TOP 10, microservices architecture, and thousands of others I consider myself an eternal learner.
 
 Contact me:
 - [Theodoro Silva Marques](https://www.linkedin.com/in/theodoro-silva-marques-b28974212/) on LinkedIn
