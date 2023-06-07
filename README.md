@@ -9,7 +9,7 @@ class Theo extends Person {
   public langs = ['typescript', 'javascript', 'python', 'sql'];
   public devops = ['github actions', 'docker', 'k8s', 'linux'];
   public interests = ['secure development', 'application architecture', 'microservices'];
-  public hobbies = ['skateboard', 'ctf', 'coding'];
+  public hobbies = ['martial arts', 'ctf', 'coding'];
   public codingSince = new Date('2018');
 }
 ```
