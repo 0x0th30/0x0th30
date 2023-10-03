@@ -5,7 +5,7 @@ Brazilian Dev who loves to code and design applications.
 ```typescript
 class Theo extends Person {
   public nick = '0x0th30';
-  public lovesCoffe = true;
+  public lovesCoffee = true;
   public langs = ['typescript', 'javascript', 'python', 'sql'];
   public devops = ['github actions', 'docker', 'k8s', 'linux'];
   public interests = ['secure development', 'application architecture', 'microservices'];
