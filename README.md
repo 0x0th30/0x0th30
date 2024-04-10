@@ -19,4 +19,3 @@ I had started to work as Backend Developer when I'm 16, since this point I had f
 Contact me:
 - [Theodoro Silva Marques](https://www.linkedin.com/in/theodoro-silva-marques-b28974212/) on LinkedIn
 - [@0x0th30](https://twitter.com/0x0th30) on Twitter
-- [@0x0th30](https://www.instagram.com/0x0th30/) on Instagram
